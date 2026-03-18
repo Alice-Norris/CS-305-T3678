@@ -21,7 +21,3 @@ How did you ensure the code and software application were functional and secure?
 What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks? 
 
 When adding new dependencies, I ran the dependency check as each was added, in an attempt to prevent vulnerabilities from becoming "baked in" to the code, becoming too far entrenched to easily remove. Where possible, I tried to keep the code that I added as close to the documentation as possible, as forcing things to work with work-arounds can drastically increase vulnerability. I used dependency checks, the vulnerability databases online, and the maven dependency tree and build tools to streamline dependencies as much as possible, mitigate vulnerabilities that could not be removed as best I could, and updated new dependencies as much as possible while still maintaining compatibility with Java SE 8.
-
-Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer? 
-
-I'd definitely want to show an employer my configuration files for the Spring framework, my security configuration class, and the work I did with the Maven build tool. 
