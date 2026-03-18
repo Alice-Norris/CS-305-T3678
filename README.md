@@ -1,4 +1,5 @@
 # CS-305-T3678
+This course, Software Security, involved analyzing and securing a web application using a RESTful API, implemented using Maven, Spring Boot, and Java. For the finaly report from the project, see Project Two- Practices for Secure Software. The Vulnerability Process Flow accompanying it is a supplement to the final report.  
 
 Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address? 
 
